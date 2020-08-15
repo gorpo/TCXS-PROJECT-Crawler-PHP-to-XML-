@@ -1,0 +1,25 @@
+<XMBML version="1.0">
+	<View id="ps1_alone_link">
+		<Attributes>
+			<Table key="ps1_alone_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Alone in the Dark The New Nightmare [CD1]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS01201</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4rcrb27szfpde39/UP9000-SLUS01201_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ps1_alone2_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Alone in the Dark The New Nightmare [CD2]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS01201</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/x5l5h2rxre0q7zm/UP9000-SLUS01201_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps1_alone_link" attr="ps1_alone_link"/>
+		  <Item class="type:x-xmb/module-action" key="ps1_alone2_link" attr="ps1_alone2_link"/>
+		</Items>
+	</View>
+
+</XMBML>

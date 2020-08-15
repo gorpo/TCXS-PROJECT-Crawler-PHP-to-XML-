@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="metalgear5pain_items">
+		<Attributes>
+			<Table key="metalgear5pain_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - METAL GEAR SOLID V THE PHANTOM PAIN</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/txj45bgdjk2r1yo/1DGAME-NPUB31491_00-NPUB314910000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="metalgear5pain_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - METAL GEAR SOLID V THE PHANTOM PAIN</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7hzk8b2gmyn9xbp/2DGAME-NPUB31491_00-NPUB314910000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="metalgear5pain_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - METAL GEAR SOLID V THE PHANTOM PAIN</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/eq3fsd5bzinimer/3DGAME-NPUB31491_00-NPUB314910000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="metalgear5pain_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - METAL GEAR SOLID V THE PHANTOM PAIN</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8hdppii46x6wz89/2PATCH-BLUS31491_00-BLUS314910000000-A0110-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="metalgear5pain_item_0" attr="metalgear5pain_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="metalgear5pain_item_1" attr="metalgear5pain_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="metalgear5pain_item_2" attr="metalgear5pain_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="metalgear5pain_item_3" attr="metalgear5pain_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

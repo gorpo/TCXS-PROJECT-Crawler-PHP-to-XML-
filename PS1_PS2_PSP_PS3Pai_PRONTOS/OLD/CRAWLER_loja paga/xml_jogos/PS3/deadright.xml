@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="deadright_items">
+		<Attributes>
+			<Table key="deadright_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Dead To Right Retribution</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/50s1qqora7xdzoc/1DGAME-NPEB00824_00-NPEB008240000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="deadright_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Dead To Right Retribution</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wkti0uhp5cz35w9/2DGAME-NPEB00824_00-NPEB008240000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="deadright_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Dead To Right Retribution</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ritqvmt788t8uns/2PATCH-BLES00824_00-BLES008240000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query
+        class="type:x-xmb/module-action"
+        key="deadright_item_0"
+        attr="deadright_item_0"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="deadright_item_1"
+        attr="deadright_item_1"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="deadright_item_2"
+        attr="deadright_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="tekken_items">
+		<Attributes>
+			<Table key="tekken_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Tekken 6</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xtksfntjglmfse0/1DGAME-NPEB00635_00-NPEB006350000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="tekken_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Tekken 6</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wycubs5yo55hr6t/2DGAME-NPEB00635_00-NPEB006350000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="tekken_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Tekken 6</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/qhy70povfz8yetl/3DGAME-NPEB00635_00-NPEB006350000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="tekken_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Tekken 6</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/sd1fwlzhyg8r28n/4DGAME-NPEB00635_00-NPEB006350000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="tekken_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (PATCH) - Tekken 6</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/kz1bkz6emkzmx3x/2PATCH-BLES00635_00-BLES006350000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="tekken_item_0" attr="tekken_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="tekken_item_1" attr="tekken_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="tekken_item_2" attr="tekken_item_2"/>
+  	   <Item class="type:x-xmb/module-action" key="tekken_item_3" attr="tekken_item_3"/>
+  	   <Item class="type:x-xmb/module-action" key="tekken_item_4" attr="tekken_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

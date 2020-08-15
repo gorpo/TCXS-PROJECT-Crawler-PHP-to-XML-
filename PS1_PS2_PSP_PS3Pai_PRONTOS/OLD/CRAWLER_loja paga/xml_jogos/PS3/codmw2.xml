@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="codmw2_items">
+		<Attributes>
+			<Table key="codmw2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Call of Duty Modern Warfare 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/q9agw2nxc8rk6cm/1DGAME-NPUB30377_00-NPUB303770000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="codmw2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME+LIC) - Call of Duty Modern Warfare 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gl1v4uksy7hpxrx/2DGAME-NPUB30377_00-NPUB303770000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="codmw2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Call of Duty Modern Warfare 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5hgmsepstuki5oy/2PATCH-BLUS30377_00-BLUS303770000000.pkg?dl=01</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="codmw2_item_0" attr="codmw2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="codmw2_item_1" attr="codmw2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="codmw2_item_2" attr="codmw2_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

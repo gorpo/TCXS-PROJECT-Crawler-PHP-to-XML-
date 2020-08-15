@@ -1,0 +1,31 @@
+<XMBML version="1.0">
+	<View id="deadislandrp_items">
+		<Attributes>
+			<Table key="deadislandrp_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Dead Island Riptide</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xdj1y83r08ldpto/1DGAME-NPEB01739_00-NPEB017390000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="deadislandrp_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (PATCH) - Dead Island Riptide</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/vsixx9qie88w0w3/2PATCH-BLES01739_00-BLES017390000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query
+        class="type:x-xmb/module-action"
+        key="deadislandrp_item_0"
+        attr="deadislandrp_item_0"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="deadislandrp_item_1"
+        attr="deadislandrp_item_1"/>
+		</Items>
+	</View>
+
+</XMBML>

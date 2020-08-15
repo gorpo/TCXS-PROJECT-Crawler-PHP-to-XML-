@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="needstreet_items">
+		<Attributes>
+			<Table key="needstreet_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Need for Speed Prostreet</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7spk2mi9afn9y8n/1DGAME-NPEB00176_00-NPEB001760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="needstreet_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Need for Speed Prostreet</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wzkqjimp3zeyc92/2DGAME-NPEB00176_00-NPEB001760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="needstreet_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH+LIC) - Need for Speed Prostreet</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/cr7c94ltx61g15a/2PATCH-BLES00176_00-BLES001760000000-A0130-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="needstreet_item_0" attr="needstreet_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="needstreet_item_1" attr="needstreet_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="needstreet_item_2" attr="needstreet_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="taspiderman_items">
+		<Attributes>
+			<Table key="taspiderman_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - The Amazing Spider Man</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fo3f4hb90ao7zyg/1DGAME-NPEB01547_00-NPEB015470000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="taspiderman_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - The Amazing Spider Man</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dy9nyknuhlemj7z/2DGAME-NPEB01547_00-NPEB015470000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="taspiderman_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - The Amazing Spider Man</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/zfy5l9dsxm6eysb/3DGAME-NPEB01547_00-NPEB015470000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="taspiderman_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - The Amazing Spider Man</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/2iixmbl55hpq1y3/2PATCH-BLES01547_00-BLES015470000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="taspiderman_item_0" attr="taspiderman_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="taspiderman_item_1" attr="taspiderman_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="taspiderman_item_2" attr="taspiderman_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="taspiderman_item_3" attr="taspiderman_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

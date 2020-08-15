@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_timespliter_link">
+		<Attributes>
+			<Table key="ps2_timespliter_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Time Spliter [ENG]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS20090</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/smvwmlsur40p8d3/UP0000-SLUS20090_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		    <Item class="type:x-xmb/module-action" key="ps2_timespliter_link" attr="ps2_timespliter_link"/>
+		</Items>
+	</View>
+
+</XMBML>

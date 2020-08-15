@@ -1,0 +1,65 @@
+<XMBML version="1.0">
+	<View id="codbo2_items">
+		<Attributes>
+			<Table key="codbo2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Call of Duty Balck ops 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/pbkq8wltj8fw459/1DGAME-NPUB31011_00-NPUB310110000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="codbo2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Call of Duty Balck ops 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/m9aop4gqawo5b5v/2DGAME-NPUB31011_00-NPUB310110000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="codbo2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Call of Duty Balck ops 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4z8pyqx8lmmupm1/3DGAME-NPUB31011_00-NPUB310110000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="codbo2_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Call of Duty Balck ops 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/yegpedqphrp7q26/4DGAME-NPUB31011_00-NPUB310110000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="codbo2_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (GAME) - Call of Duty Balck ops 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/kvghe67bnj2gqzt/5DGAME-NPUB31011_00-NPUB310110000000.pkg?dl=1</String></Pair>
+	  </Table>
+			<Table key="codbo2_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 6 (GAME) - Call of Duty Balck ops 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7ehc66lbm8xnl8l/6DGAME-NPUB31011_00-NPUB310110000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="codbo2_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 7 (PATCH) - Call of Duty Balck ops 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/h10mqzasr702npi/2PATCH-BLUS31011_00-BLUS310110000000.pkg?dl=1</String></Pair>
+   </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="codbo2_item_0" attr="codbo2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="codbo2_item_1" attr="codbo2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="codbo2_item_2" attr="codbo2_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="codbo2_item_3" attr="codbo2_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="codbo2_item_4" attr="codbo2_item_4"/>
+		  <Item class="type:x-xmb/module-action" key="codbo2_item_5" attr="codbo2_item_5"/>
+		  <Item class="type:x-xmb/module-action" key="codbo2_item_6" attr="codbo2_item_6"/>
+		</Items>
+	</View>
+
+</XMBML>

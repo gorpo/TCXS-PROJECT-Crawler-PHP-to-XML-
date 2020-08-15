@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps1_medal_link">
+		<Attributes>
+			<Table key="ps1_medal_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Medal of Honor</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS00974</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xegz1jvlgbtpcua/UP9000-SLUS00974_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps1_medal_link" attr="ps1_medal_link"/>
+		</Items>
+	</View>
+
+</XMBML>

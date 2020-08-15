@@ -1,0 +1,73 @@
+<XMBML version="1.0">
+	<View id="thelastofus_items">
+		<Attributes>
+			<Table key="thelastofus_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - The Last of US</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dyecos8wi5eu146/1DGAME-NPEA01584_00-NPEA015840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="thelastofus_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - The Last of US</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/hiphacmzyj58iri/2DGAME-NPEA01584_00-NPEA015840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="thelastofus_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - The Last of US</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/2l52h65vgg7t5cs/3DGAME-NPEA01584_00-NPEA015840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="thelastofus_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - The Last of US</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/v7xsr9f4k0p26ns/4DGAME-NPEA01584_00-NPEA015840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="thelastofus_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (GAME) - The Last of US</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/puh2frzwu9r88e8/5DGAME-NPEA01584_00-NPEA015840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="thelastofus_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 6 (GAME) - The Last of US</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dcoe6s2qg4ax8rc/6DGAME-NPEA01584_00-NPEA015840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="thelastofus_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 7 (GAME) - The Last of US</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4a41temwaqi7h2w/7DGAME-NPEA01584_00-NPEA015840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="thelastofus_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 8 (PATCH) - The Last of US</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/d4m92haxgdemf1m/2PATCH-BCES01584_00-BCES015840000000?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="thelastofus_item_0" attr="thelastofus_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="thelastofus_item_1" attr="thelastofus_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="thelastofus_item_2" attr="thelastofus_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="thelastofus_item_3" attr="thelastofus_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="thelastofus_item_4" attr="thelastofus_item_4"/>
+		  <Item class="type:x-xmb/module-action" key="thelastofus_item_5" attr="thelastofus_item_5"/>
+		  <Item class="type:x-xmb/module-action" key="thelastofus_item_6" attr="thelastofus_item_6"/>
+		  <Item class="type:x-xmb/module-action" key="thelastofus_item_7" attr="thelastofus_item_7"/>
+		</Items>
+	</View>
+
+</XMBML>

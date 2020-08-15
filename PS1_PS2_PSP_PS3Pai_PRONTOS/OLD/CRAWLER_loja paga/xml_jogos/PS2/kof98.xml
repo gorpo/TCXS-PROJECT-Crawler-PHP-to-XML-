@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="ps2_34_link">
+		<Attributes>
+			<Table key="ps2_34_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - King of Fighters 98 Ultimate Match</String></Pair>
+				<Pair key="info"><String>TCXS - SLPS25783</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/r8gkp6syan9f1no/JP0000-SLPS25783_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ps2_34_link"
+        attr="ps2_34_link"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_shrek3_link">
+		<Attributes>
+			<Table key="ps2_shrek3_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Shrek 3 [ENG]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS21454</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/s7da973uqcs47z6/UP0000-SLUS21454_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		    <Item class="type:x-xmb/module-action" key="ps2_shrek3_link" attr="ps2_shrek3_link"/>
+		</Items>
+	</View>
+
+</XMBML>

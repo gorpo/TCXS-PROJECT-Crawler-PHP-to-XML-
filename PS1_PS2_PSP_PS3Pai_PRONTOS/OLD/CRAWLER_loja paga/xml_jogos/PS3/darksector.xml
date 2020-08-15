@@ -1,0 +1,25 @@
+<XMBML version="1.0">
+	<View id="darksector_items">
+		<Attributes>
+			<Table key="darksector_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Dark Sector</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5mvu1dzfxtjir58/1DGAME-NPEB00222_00-NPEB002220000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="darksector_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (PATCH) - Dark Sector</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/97n6zky50q87zz3/2PATCH-BLES00222_00-BLES002220000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="darksector_item_0" attr="darksector_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="darksector_item_1" attr="darksector_item_1"/>
+		</Items>
+	</View>
+
+</XMBML>

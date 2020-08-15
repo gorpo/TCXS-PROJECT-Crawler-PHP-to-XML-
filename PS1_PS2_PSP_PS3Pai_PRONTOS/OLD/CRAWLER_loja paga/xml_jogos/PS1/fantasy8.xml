@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="ps1_fantasy8_link">
+		<Attributes>
+			<Table key="ps1_fantasy8_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Final Fantasy 8 [CD1]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS00892</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/vgrj5euwk37d5yf/UP9000-SLUS00892_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ps1_fantasy8_link2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Final Fantasy 8 [CD2]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS00892</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/tlsirtj7784ir3k/UP9000-SLUS00892_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ps1_fantasy8_link3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Final Fantasy 8 [CD3]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS00892</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6g9ak64hnfk26gf/UP9000-SLUS00892_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ps1_fantasy8_link4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Final Fantasy 8 [CD4]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS00892</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/20rgtg551kd9pjc/UP9000-SLUS00892_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps1_fantasy8_link" attr="ps1_fantasy8_link"/>
+		  <Item class="type:x-xmb/module-action" key="ps1_fantasy8_link2" attr="ps1_fantasy8_link2"/>
+		  <Item class="type:x-xmb/module-action" key="ps1_fantasy8_link3" attr="ps1_fantasy8_link3"/>
+		  <Item class="type:x-xmb/module-action" key="ps1_fantasy8_link4" attr="ps1_fantasy8_link4"/>
+		</Items>
+	</View>
+
+</XMBML>

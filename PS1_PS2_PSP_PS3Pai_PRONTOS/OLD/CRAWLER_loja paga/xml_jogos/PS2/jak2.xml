@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_jak2_link">
+		<Attributes>
+			<Table key="ps2_jak2_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Jak 2 [ENG]</String></Pair>
+				<Pair key="info"><String>TCXS - SCUS97265</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/if7l4vn7u7o4ftx/Jak%20II%20%5BPS2%20Classics%5D%20%5BSCUS97265%5D.pkg_signed.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		    <Item class="type:x-xmb/module-action" key="ps2_jak2_link" attr="ps2_jak2_link"/>
+		</Items>
+	</View>
+
+</XMBML>

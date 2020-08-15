@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="medalofhonor_items">
+		<Attributes>
+			<Table key="medalofhonor_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Medal of Honor Warfighter</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/2nzr8gh6k66psrm/1DGAME-NPUB30990_00-NPUB309900000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="medalofhonor_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Medal of Honor Warfighter</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/s817dhgudq5rupq/2DGAME-NPUB30990_00-NPUB309900000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="medalofhonor_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Medal of Honor Warfighter</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/2377dbfystwl6tq/3DGAME-NPUB30990_00-NPUB309900000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="medalofhonor_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Medal of Honor Warfighter</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/rl8tk4pjjx88uab/2PATCH-BLUS30990_00-BLUS309900000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="medalofhonor_item_0" attr="medalofhonor_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="medalofhonor_item_1" attr="medalofhonor_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="medalofhonor_item_2" attr="medalofhonor_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="medalofhonor_item_3" attr="medalofhonor_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

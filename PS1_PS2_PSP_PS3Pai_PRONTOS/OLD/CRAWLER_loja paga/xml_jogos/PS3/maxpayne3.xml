@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="maxpayne3_items">
+		<Attributes>
+			<Table key="maxpayne3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Max Payne 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/1fk7h1d6rci7pno/1DGAME-NPEB00942_00-NPEB009420000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="maxpayne3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Max Payne 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fqe9ytwy18asfzq/2DGAME-NPEB00942_00-NPEB009420000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="maxpayne3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Max Payne 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dou4vomafs4dyb9/3DGAME-NPEB00942_00-NPEB009420000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="maxpayne3_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Max Payne 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/92fshik0jt4ny5p/4DGAME-NPEB00942_00-NPEB009420000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="maxpayne3_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (PATCH+LIC) - Max Payne 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ftn7dstyepvxum1/2PATCH-BLES00942_00-BLES009420000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="maxpayne3_item_0" attr="maxpayne3_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="maxpayne3_item_1" attr="maxpayne3_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="maxpayne3_item_2" attr="maxpayne3_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="maxpayne3_item_3" attr="maxpayne3_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="maxpayne3_item_4" attr="maxpayne3_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

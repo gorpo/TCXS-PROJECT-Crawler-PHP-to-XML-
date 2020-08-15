@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_naturoun5_link">
+		<Attributes>
+			<Table key="ps2_naturoun5_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Naruto Shippuden: Ultimate Ninja 5</String></Pair>
+				<Pair key="info"><String>TCXS - SLES55605</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/rm036byer6o2qd2/EP0000-SLES55605_00-PS2CLASSICS00000.pkg_signed.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps2_naturoun5_link" attr="ps2_naturoun5_link"/>
+		</Items>
+	</View>
+
+</XMBML>

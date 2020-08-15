@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="starhawk_items">
+		<Attributes>
+			<Table key="starhawk_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Starhawk</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ln49fpwcxclteoe/1DGAME-NPUA98181_00-NPUA981810000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="starhawk_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Starhawk</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/lbufiwpksmsc9go/2DGAME-NPUA98181_00-NPUA981810000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="starhawk_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Starhawk</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/q17szbkdwbawnmo/3DGAME-NPUA98181_00-NPUA981810000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="starhawk_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Starhawk</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/h3oz6f13xmysqg0/4DGAME-NPUA98181_00-NPUA981810000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="starhawk_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (PATCH) - Starhawk</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/hdet8nd03cjeckl/2PATCH-BCUS98181_00-BCUS981810000000-A0104-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="starhawk_item_0" attr="starhawk_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="starhawk_item_1" attr="starhawk_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="starhawk_item_2" attr="starhawk_item_2"/>
+  	   <Item class="type:x-xmb/module-action" key="starhawk_item_3" attr="starhawk_item_3"/>
+  	   <Item class="type:x-xmb/module-action" key="starhawk_item_4" attr="starhawk_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

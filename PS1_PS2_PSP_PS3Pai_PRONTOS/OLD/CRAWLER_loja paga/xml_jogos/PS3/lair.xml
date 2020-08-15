@@ -1,0 +1,57 @@
+<XMBML version="1.0">
+	<View id="lair_items">
+		<Attributes>
+			<Table key="lair_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Lair</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/10p0g89880rpgwj/1DGAME-NPEA00004_00-NPEA000040000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lair_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Lair</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/rc0c4zc501y7vv8/2DGAME-NPEA00004_00-NPEA000040000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lair_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Lair</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/150gkkk69g7guoh/3DGAME-NPEA00004_00-NPEA000040000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lair_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Lair</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xtkywu588jxg7ru/4DGAME-NPEA00004_00-NPEA000040000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lair_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (GAME) - Lair</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8sw213eg6qodj06/5DGAME-NPEA00004_00-NPEA000040000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lair_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 6 (PATCH+LIC) - Lair</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/2u1kbzo73wwmevz/2PATCH-BCES00004_00-BCES000040000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="lair_item_0" attr="lair_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="lair_item_1" attr="lair_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="lair_item_2" attr="lair_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="lair_item_3" attr="lair_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="lair_item_4" attr="lair_item_4"/>
+		  <Item class="type:x-xmb/module-action" key="lair_item_5" attr="lair_item_5"/>
+		</Items>
+	</View>
+
+</XMBML>

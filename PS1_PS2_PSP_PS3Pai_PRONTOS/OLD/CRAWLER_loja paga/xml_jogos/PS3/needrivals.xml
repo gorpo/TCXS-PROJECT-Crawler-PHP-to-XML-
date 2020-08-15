@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="needrivals_items">
+		<Attributes>
+			<Table key="needrivals_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Need for Speed: Rivals</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/midwk48dwtxrogz/1DGAME-NPUB31201_00-NPUB312010000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="needrivals_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Need for Speed: Rivals</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/w9ffyshx7ewv3jg/2DGAME-NPUB31201_00-NPUB312010000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="needrivals_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Need for Speed: Rivals</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/z2mrofp9h6st9qy/2PATCH-BLUS31201_00-BLUS312010000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="needrivals_item_0" attr="needrivals_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="needrivals_item_1" attr="needrivals_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="needrivals_item_2" attr="needrivals_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

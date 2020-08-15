@@ -1,0 +1,57 @@
+<XMBML version="1.0">
+	<View id="ratchetall_items">
+		<Attributes>
+			<Table key="ratchetall_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Ratchet and Clank All 4 One</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/cx6a6b9yiazqhli/1DGAME-NPUA98175_00-NPUA981750000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ratchetall_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Ratchet and Clank All 4 One</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8y9b567icrj26ns/2DGAME-NPUA98175_00-NPUA981750000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ratchetall_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Ratchet and Clank All 4 One</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gdz4a5t2nqd9i5p/3DGAME-NPUA98175_00-NPUA981750000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ratchetall_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Ratchet and Clank All 4 One</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/me2fe2njhxpxz9u/4DGAME-NPUA98175_00-NPUA981750000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ratchetall_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (GAME) - Ratchet and Clank All 4 One</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/nppntc3tqy9e47a/5DGAME-NPUA98175_00-NPUA981750000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ratchetall_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 6 (PATCH+LIC) - Ratchet and Clank All 4 One</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/idwdyg1u5nrsj8p/2PATCH-BCUS98175_00-BCUS981750000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ratchetall_item_0" attr="ratchetall_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="ratchetall_item_1" attr="ratchetall_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="ratchetall_item_2" attr="ratchetall_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="ratchetall_item_3" attr="ratchetall_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="ratchetall_item_4" attr="ratchetall_item_4"/>
+		  <Item class="type:x-xmb/module-action" key="ratchetall_item_5" attr="ratchetall_item_5"/>
+		</Items>
+	</View>
+
+</XMBML>

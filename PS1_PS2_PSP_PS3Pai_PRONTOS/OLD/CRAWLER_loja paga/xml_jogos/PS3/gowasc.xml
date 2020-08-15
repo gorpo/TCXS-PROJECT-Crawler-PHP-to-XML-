@@ -1,0 +1,89 @@
+<XMBML version="1.0">
+	<View id="gowascension_items">
+		<Attributes>
+			<Table key="gowascension_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/udnm5ijptwqlf4l/1DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="gowascension_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/llv2zb1nhtfquij/2DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="gowascension_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/pqur0eu82072d9f/3DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="gowascension_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/9azt45hgddubt6e/4DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="gowascension_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/07ll7uza5xefvj4/5DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+	  </Table>
+			<Table key="gowascension_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 6 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/43n45jdas1ysh4m/6DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="gowascension_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 7 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/yorohokkvbgotuh/7DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="gowascension_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 8 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gc1isdejgl6fcat/8DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="gowascension_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 9 (GAME) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ubwsv9ljtmz9w0e/9DGAME-NPUA98232_00-NPUA982320000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="gowascension_item_9">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 10 (PATCH+LIC) - God of War Ascension</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/x9rv2z0iddydl19/2PATCH-BCUS98232_00-BCUS982320000000-A0111-V0100.pkg?dl=1</String></Pair>
+   </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_0" attr="gowascension_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_1" attr="gowascension_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_2" attr="gowascension_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_3" attr="gowascension_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_4" attr="gowascension_item_4"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_5" attr="gowascension_item_5"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_6" attr="gowascension_item_6"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_7" attr="gowascension_item_7"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_8" attr="gowascension_item_8"/>
+		  <Item class="type:x-xmb/module-action" key="gowascension_item_9" attr="gowascension_item_9"/>
+		</Items>
+	</View>
+
+</XMBML>

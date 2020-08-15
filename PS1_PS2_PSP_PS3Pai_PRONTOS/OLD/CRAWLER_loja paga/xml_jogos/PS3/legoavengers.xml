@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="legoavengers_items">
+		<Attributes>
+			<Table key="legoavengers_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Lego Marvels Avengers</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7dx7luswrcopk69/1DGAME-NPUB31550_00-NPUB315500000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="legoavengers_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Lego Marvels Avengers</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4uvus1c3bk1kb1l/2DGAME-NPUB31550_00-NPUB315500000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="legoavengers_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Lego Marvels Avengers</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/9bo6s1123b5fp19/3DGAME-NPUB31550_00-NPUB315500000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="legoavengers_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Lego Marvels Avengers</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/t81p4wfjxahmy6q/2PATCH-BLUS31550_00-BLUS315500000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="legoavengers_item_0" attr="legoavengers_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="legoavengers_item_1" attr="legoavengers_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="legoavengers_item_2" attr="legoavengers_item_2"/>
+  	   <Item class="type:x-xmb/module-action" key="legoavengers_item_3" attr="legoavengers_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

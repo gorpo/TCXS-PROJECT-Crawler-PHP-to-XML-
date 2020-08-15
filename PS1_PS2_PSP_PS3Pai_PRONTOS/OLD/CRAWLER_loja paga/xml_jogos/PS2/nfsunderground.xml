@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_8_link">
+		<Attributes>
+			<Table key="ps2_8_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Need For Speed Underground 2</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS21065</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/05boiic10sup5a6/UP0000-SLUS21065_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps2_8_link" attr="ps2_8_link"/>
+		</Items>
+	</View>
+
+</XMBML>

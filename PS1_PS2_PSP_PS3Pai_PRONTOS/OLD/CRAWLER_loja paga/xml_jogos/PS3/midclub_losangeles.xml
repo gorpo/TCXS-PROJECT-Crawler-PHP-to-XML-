@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="midclub_losangeles_items">
+		<Attributes>
+			<Table key="midclub_losangeles_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Midnight Club Los Angeles</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/rdxj4qt4dxt2cz0/1DGAME-NPEB00362_00-NPEB003620000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="midclub_losangeles_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME+LIC) - Midnight Club Los Angeles</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/q5tb9u1qmm3nih5/2DGAME-NPEB00362_00-NPEB003620000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="midclub_losangeles_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Midnight Club Los Angeles</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/y948dmv9p8iad3f/2PATCH-BLES00362_00-BLES003620000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="midclub_losangeles_item_0" attr="midclub_losangeles_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="midclub_losangeles_item_1" attr="midclub_losangeles_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="midclub_losangeles_item_2" attr="midclub_losangeles_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

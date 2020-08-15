@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="legomovie_items">
+		<Attributes>
+			<Table key="legomovie_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - The LEGO Movie VideoGame</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/s8sphgezbug59v1/1DGAME-NPEB01964_00-NPEB019640000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="legomovie_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - The LEGO Movie VideoGame</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/pn2sr4epan7z4bw/2DGAME-NPEB01964_00-NPEB019640000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="legomovie_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - The LEGO Movie VideoGame</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ys7pbrontsja88v/2PATCH-BLES01964_00-BLES019640000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="legomovie_item_0" attr="legomovie_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="legomovie_item_1" attr="legomovie_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="legomovie_item_2" attr="legomovie_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

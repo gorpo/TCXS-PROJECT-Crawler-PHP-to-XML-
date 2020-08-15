@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="resevilrvl2_items">
+		<Attributes>
+			<Table key="resevilrvl2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Resident Evil Revelations 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gg21m47cn4jlq64/1DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resevilrvl2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Resident Evil Revelations 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/eee6v51ulq344if/2DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resevilrvl2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Resident Evil Revelations 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/9xyudxoanbxfcew/3DGAME-NPUB31444_00-NPUB314440000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resevilrvl2_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Resident Evil Revelations 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/yualr71tavri7ld/2PATCH-BLUS31444_00-BLUS314440000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="resevilrvl2_item_0" attr="resevilrvl2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="resevilrvl2_item_1" attr="resevilrvl2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="resevilrvl2_item_2" attr="resevilrvl2_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="resevilrvl2_item_3" attr="resevilrvl2_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

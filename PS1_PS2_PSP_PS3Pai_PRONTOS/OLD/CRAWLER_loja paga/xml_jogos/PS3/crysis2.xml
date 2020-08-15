@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="crysis2_items">
+		<Attributes>
+			<Table key="crysis2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Crysis2 Limited Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4v0dliy301kblv1/1DGAME-NPUB30631_00-NPUB306310000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="crysis2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Crysis2 Limited Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/jjyuwywx0ceyvqv/2DGAME-NPUB30631_00-NPUB306310000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="crysis2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Crysis2 Limited Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/78glmwv7shd65au/2PATCH-BLUS30631_00-BLUS306310000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="crysis2_item_0" attr="crysis2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="crysis2_item_1" attr="crysis2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="crysis2_item_2" attr="crysis2_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

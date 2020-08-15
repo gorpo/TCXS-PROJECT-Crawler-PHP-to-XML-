@@ -1,0 +1,97 @@
+<XMBML version="1.0">
+	<View id="killzone3_items">
+		<Attributes>
+			<Table key="killzone3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/oy0c1pojxdx5mio/1DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/0r4i0n719huj2fy/2DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/qr3e9mhysq6t6c9/3DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/jokdhyau1danyo1/4DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5jhyosk6ghsdc1t/5DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+	  </Table>
+			<Table key="killzone3_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 6 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ayx9aenhqwqjdzo/6DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 7 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/uielmkidobyj3d2/7DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 8 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/bt1waqz6qt5fq0e/8DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 9 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xql55qk9deavcg3/9DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_9">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 10 (GAME) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ddxic0w5wuh2x1j/10DGAME-NPUA98234_00-NPUA982340000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="killzone3_item_10">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 11 (PACH) - Killzone 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/co4r0mnwwtvv73k/2PATCH-BCUS98234_00-BCUS982340000000.pkg?dl=1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_0" attr="killzone3_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_1" attr="killzone3_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_2" attr="killzone3_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_3" attr="killzone3_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_4" attr="killzone3_item_4"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_5" attr="killzone3_item_5"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_6" attr="killzone3_item_6"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_7" attr="killzone3_item_7"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_8" attr="killzone3_item_8"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_9" attr="killzone3_item_9"/>
+		  <Item class="type:x-xmb/module-action" key="killzone3_item_10" attr="killzone3_item_10"/>
+		</Items>
+	</View>
+
+</XMBML>

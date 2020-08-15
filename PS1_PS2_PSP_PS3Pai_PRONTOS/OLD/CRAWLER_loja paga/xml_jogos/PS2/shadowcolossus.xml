@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="ps2_26_link">
+		<Attributes>
+			<Table key="ps2_26_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Shadow of the Colossus</String></Pair>
+				<Pair key="info"><String>TCXS - SCUS97472</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/m5rl2z0nphz807s/EP0000-SCUS97472_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ps2_26_link"
+        attr="ps2_26_link"/>
+		</Items>
+	</View>
+
+</XMBML>

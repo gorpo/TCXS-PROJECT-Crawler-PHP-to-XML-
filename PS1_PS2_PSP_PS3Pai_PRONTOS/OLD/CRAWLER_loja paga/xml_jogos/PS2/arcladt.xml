@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_arcladt_link">
+		<Attributes>
+			<Table key="ps2_arcladt_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Arc the Lad - Twilight of the Spirits</String></Pair>
+				<Pair key="info"><String>TCXS - SCUS97231</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/sj4s68hdcip9mzc/UP0000-SCUS97231_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps2_arcladt_link" attr="ps2_arcladt_link"/>
+		</Items>
+	</View>
+
+</XMBML>

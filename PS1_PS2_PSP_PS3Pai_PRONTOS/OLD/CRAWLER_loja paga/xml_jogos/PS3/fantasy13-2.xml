@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="ffxiii2_items">
+		<Attributes>
+			<Table key="ffxiii2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Final Fantasy XIII-2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/nbe58inmz9lcv41/1DGAME-NPUB30776_00-NPUB307760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ffxiii2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Final Fantasy XIII-2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/vquo0qbckzqrv9t/2DGAME-NPUB30776_00-NPUB307760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ffxiii2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Final Fantasy XIII-2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4ffmtk2jiscbkvq/3DGAME-NPUB30776_00-NPUB307760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ffxiii2_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Final Fantasy XIII-2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/0nlqt8mo7spddoz/4DGAME-NPUB30776_00-NPUB307760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ffxiii2_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (PATCH+LIC) - Final Fantasy XIII-2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ol9r2qezcgqju4s/2PATCH-BLUS30776_00-BLUS307760000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ffxiii2_item_0" attr="ffxiii2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="ffxiii2_item_1" attr="ffxiii2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="ffxiii2_item_2" attr="ffxiii2_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="ffxiii2_item_3" attr="ffxiii2_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="ffxiii2_item_4" attr="ffxiii2_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

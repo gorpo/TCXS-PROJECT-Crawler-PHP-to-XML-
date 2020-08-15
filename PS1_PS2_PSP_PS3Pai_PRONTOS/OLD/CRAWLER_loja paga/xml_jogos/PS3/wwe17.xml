@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="wwe17_items">
+		<Attributes>
+			<Table key="wwe17_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - WWE 2K 17</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4oovt8lbl0wkir8/1DGAME-NPUB31599_00-NPUB315990000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="wwe17_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - WWE 2K 17</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/pfnob24yapi610h/2DGAME-NPUB31599_00-NPUB315990000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="wwe17_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - WWE 2K 17</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8ewavhnzmo1s18w/3DGAME-NPUB31599_00-NPUB315990000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="wwe17_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - WWE 2K 17</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6l1u9ohfakjdh8c/2PATCH-BLUS31599_00-BLUS315990000000-A0104-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="wwe17_item_0" attr="wwe17_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="wwe17_item_1" attr="wwe17_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="wwe17_item_2" attr="wwe17_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="wwe17_item_3" attr="wwe17_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_harrypss_link">
+		<Attributes>
+			<Table key="ps2_harrypss_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Harry Potter - And The Sorceror's Stone</String></Pair>
+				<Pair key="info"><String>TCXS - SLES52055</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ca3f722fj5yv2d7/UP0000-SLUS20826_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps2_harrypss_link" attr="ps2_harrypss_link"/>
+		</Items>
+	</View>
+
+</XMBML>

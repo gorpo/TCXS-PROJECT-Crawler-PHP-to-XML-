@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="legobat2_items">
+		<Attributes>
+			<Table key="legobat2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - LEGO Batman 2 DC Super Heroes</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/abxtz65gzb6j0sh/1DGAME-NPUB30837_00-NPUB308370000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="legobat2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - LEGO Batman 2 DC Super Heroes</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/g4irjdmb141fvwo/2DGAME-NPUB30837_00-NPUB308370000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="legobat2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - LEGO Batman 2 DC Super Heroes</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dfnvgcvaojo6ui3/2PATCH-BLUS30837_00-BLUS308370000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="legobat2_item_0" attr="legobat2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="legobat2_item_1" attr="legobat2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="legobat2_item_2" attr="legobat2_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

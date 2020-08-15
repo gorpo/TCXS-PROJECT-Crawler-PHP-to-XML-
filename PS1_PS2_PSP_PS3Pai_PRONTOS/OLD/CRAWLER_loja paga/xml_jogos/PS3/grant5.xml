@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="granturismo5sp_items">
+		<Attributes>
+			<Table key="granturismo5sp_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Gran Turismo 5 XL</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/9rya325ajrw9ksu/1DGAME-NPUA98114_00-NPUA981140000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="granturismo5sp_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Gran Turismo 5 XL</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5ai7e31dr1ooq2n/2DGAME-NPUA98114_00-NPUA981140000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="granturismo5sp_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Gran Turismo 5 XL</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ghk4guu4xj84yn5/3DGAME-NPUA98114_00-NPUA981140000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="granturismo5sp_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Gran Turismo 5 XL</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/g21cvban70r3ylb/2PATCH-BCUS98114_00-BCUS981140000000-A0217-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="granturismo5sp_item_0" attr="granturismo5sp_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="granturismo5sp_item_1" attr="granturismo5sp_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="granturismo5sp_item_2" attr="granturismo5sp_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="granturismo5sp_item_3" attr="granturismo5sp_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

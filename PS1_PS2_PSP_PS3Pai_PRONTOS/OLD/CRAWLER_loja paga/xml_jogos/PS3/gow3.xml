@@ -1,0 +1,25 @@
+<XMBML version="1.0">
+	<View id="gow3_items">
+		<Attributes>
+			<Table key="gow3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - God of War 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dreuiz9g0wt0mik/1DGAME-NPUA98111_00-NPUA981110000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="gow3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (PATCH) - God of War 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/nivieljtnjt29d7/2PATCH-BCUS98111_00-BCUS981110000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="gow3_item_0" attr="gow3_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="gow3_item_1" attr="gow3_item_1"/>
+		</Items>
+	</View>
+
+</XMBML>

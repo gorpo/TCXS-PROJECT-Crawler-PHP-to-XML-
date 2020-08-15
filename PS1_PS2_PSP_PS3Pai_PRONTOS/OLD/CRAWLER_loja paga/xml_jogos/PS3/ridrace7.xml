@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="ridge7_items">
+		<Attributes>
+			<Table key="ridge7_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Ridge Racer 7 Platinum Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/w2udruyfgo74x6f/1DGAME-NPEA00009_00-NPEA000090000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ridge7_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Ridge Racer 7 Platinum Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/cc3c5kret4ijf9a/2DGAME-NPEA00009_00-NPEA000090000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ridge7_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Ridge Racer 7 Platinum Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/509tu88g970xrgz/2PATCH-BCES00009_00-BCES000090000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ridge7_item_0" attr="ridge7_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="ridge7_item_1" attr="ridge7_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="ridge7_item_2" attr="ridge7_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps1_echo_link">
+		<Attributes>
+			<Table key="ps1_echo_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Echo Night</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS00820</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/59abwwuvjy5ml4j/UP9000-SLUS00820_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps1_echo_link" attr="ps1_echo_link"/>
+		</Items>
+	</View>
+
+</XMBML>

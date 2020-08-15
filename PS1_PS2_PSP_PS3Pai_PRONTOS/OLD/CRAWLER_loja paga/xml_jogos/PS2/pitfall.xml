@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_pitfall_link">
+		<Attributes>
+			<Table key="ps2_pitfall_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - PitFall [ENG]</String></Pair>
+				<Pair key="info"><String>TCXS - SLES53024</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ytl0by1qq2eienp/UP0000-SLUS20408_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		    <Item class="type:x-xmb/module-action" key="ps2_pitfall_link" attr="ps2_pitfall_link"/>
+		</Items>
+	</View>
+
+</XMBML>

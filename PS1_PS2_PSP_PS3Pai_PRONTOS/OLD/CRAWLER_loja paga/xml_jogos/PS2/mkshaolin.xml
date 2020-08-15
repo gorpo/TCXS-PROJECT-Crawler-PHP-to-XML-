@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_23_link">
+		<Attributes>
+			<Table key="ps2_23_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Mortal Kombat - Shaolin Monks</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS21087</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/km85r1idvhrpf7g/UP0000-SLUS21087_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps2_23_link" attr="ps2_23_link"/>
+		</Items>
+	</View>
+
+</XMBML>

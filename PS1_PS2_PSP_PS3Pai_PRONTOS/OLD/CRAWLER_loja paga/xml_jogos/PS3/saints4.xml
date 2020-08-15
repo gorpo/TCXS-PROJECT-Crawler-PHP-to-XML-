@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="saints4_items">
+		<Attributes>
+			<Table key="saints4_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Saints Row 4</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6x3f9g7on4yieh4/1DGAME-NPUB31205_00-NPUB312050000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="saints4_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME+LIC) - Saints Row 4</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/3mqptw3mnmr7muc/2DGAME-NPUB31205_00-NPUB312050000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="saints4_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Saints Row 4</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/t3wo21qbt3ntaum/2PATCH-BLUS31205_00-BLUS312050000000-A0104-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="saints4_item_0" attr="saints4_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="saints4_item_1" attr="saints4_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="saints4_item_4" attr="saints4_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

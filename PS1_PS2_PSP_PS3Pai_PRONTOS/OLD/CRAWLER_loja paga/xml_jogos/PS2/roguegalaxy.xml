@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="ps2_32_link">
+		<Attributes>
+			<Table key="ps2_32_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Rogue Galaxy</String></Pair>
+				<Pair key="info"><String>TCXS - SCUS97490</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/y4gff2nee1ybcnr/UP0000-SCUS97490_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ps2_32_link"
+        attr="ps2_32_link"/>
+		</Items>
+	</View>
+
+</XMBML>

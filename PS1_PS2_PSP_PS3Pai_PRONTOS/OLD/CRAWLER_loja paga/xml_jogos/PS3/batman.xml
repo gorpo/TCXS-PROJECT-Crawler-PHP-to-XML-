@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="batmancity_items">
+		<Attributes>
+			<Table key="batmancity_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Batman: Arkham City</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/9ke7qcy7qeo4shk/1DGAME-NPEB00926_00-NPEB009260000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="batmancity_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Batman: Arkham City</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/tlq5rejb4spmr4e/2DGAME-NPEB00926_00-NPEB009260000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="batmancity_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Batman: Arkham City</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/h88txzuqhk213ik/2PATCH-BLES00926_00-BLES009260000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="batmancity_item_0" attr="batmancity_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="batmancity_item_1" attr="batmancity_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="batmancity_item_2" attr="batmancity_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

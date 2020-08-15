@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="narutounrs_items">
+		<Attributes>
+			<Table key="narutounrs_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Naruto Shippuden Ultimate Ninja Storm Revolution</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/jx8xb2m4hqqdhvk/1DGAME-NPUB31421_00-NPUB314210000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="narutounrs_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Naruto Shippuden Ultimate Ninja Storm Revolution</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/0qi1dcecv1dl4bv/2DGAME-NPUB31421_00-NPUB314210000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="narutounrs_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Naruto Shippuden Ultimate Ninja Storm Revolution</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ly70a6oo2rmrlfw/2PATCH-BLUS31421_00-BLUS314210000000-A0102-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="narutounrs_item_0" attr="narutounrs_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="narutounrs_item_1" attr="narutounrs_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="narutounrs_item_2" attr="narutounrs_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>
