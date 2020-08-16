@@ -1,0 +1,145 @@
+<XMBML version="1.0">
+	<View id="pes20_items">
+		<Attributes>
+			<Table key="pes20_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/m0hmh2cad40nv3q/1DGAME-NPUB31612_00-NPUB316120000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ts5u97bvd92fxrq/2DGAME-NPUB31612_00-NPUB316120000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/zb2dyql8c0igdsj/2PATCH-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (DATA-PACK) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gttgmrxugfcby6i/DATAPACK%204.1BLUS31612%20PES2018.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (MOD) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/e6bq8ltt6js4j2d/PLACAR%20LA%20LIGA%20LIGA%20ESPANHOLA.pkg?dl=1</String></Pair>
+	  </Table>
+			<Table key="pes20_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 6 (MOD) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/hfab2693nuj4c14/PLACAR%20PES%202019%20PLACAR%20PADR%C3%83O%20DO%20PATCH.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 7 (MOD) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/padd7qf2e21mbap/PLACAR%20PES%202020.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 8 (MOD) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/r41fby9im3lsu1a/PLACAR%20PREMIER%20LEAGUE%20LIGA%20INGLESA.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 9 (MOD) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/3zwk1arxnltomy1/PLACAR%20REDE%20GLOBO%20BRASILEIR%C3%83O.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_9">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 10 (MOD) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/p12tag4pgde85dn/POTATO1-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_10">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 11 (MOD) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dr7yzhxamv0gpv0/POTATO2-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+   </Table>
+			<Table key="pes20_item_11">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 12 (Mod) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xw03amwpl3ueic9/POTATO3-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+			</Table>
+			<Table key="pes20_item_12">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 13 (MOD-UPDATE) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/eoimcp80zy1cls4/V8.1-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+			</Table>
+			<Table key="pes20_item_13">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 14 (MOD-UPDATE) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/uv1fv9p02umrkk1/V8.2-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+			</Table>
+			<Table key="pes20_item_14">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 15 (MOD-UPDATE) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xzhgc18zjgd38vb/V8.3-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+			</Table>
+			<Table key="pes20_item_15">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 16 (MOD-UPDATE) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/lzipmgzluo85mrw/V8.4-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+			</Table>
+			<Table key="pes20_item_16">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 17 (MOD-UPDATE) - PES 18 (20MOD)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xfjwp85r5hvx442/V8.5-BLUS31612_00-BLUS316120000000.pkg?dl=1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+	   <Item class="type:x-xmb/module-action" key="pes20_item_0" attr="pes20_item_0"/>
+	   <Item class="type:x-xmb/module-action" key="pes20_item_1" attr="pes20_item_1"/>
+	   <Item class="type:x-xmb/module-action" key="pes20_item_2" attr="pes20_item_2"/>
+	   <Item class="type:x-xmb/module-action" key="pes20_item_3" attr="pes20_item_3"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_4" attr="pes20_item_4"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_5" attr="pes20_item_5"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_6" attr="pes20_item_6"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_7" attr="pes20_item_7"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_8" attr="pes20_item_8"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_9" attr="pes20_item_9"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_10" attr="pes20_item_10"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_11" attr="pes20_item_11"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_12" attr="pes20_item_12"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_13" attr="pes20_item_13"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_14" attr="pes20_item_14"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_15" attr="pes20_item_15"/>
+		 <Item class="type:x-xmb/module-action" key="pes20_item_16" attr="pes20_item_16"/>
+		</Items>
+	</View>
+
+</XMBML>

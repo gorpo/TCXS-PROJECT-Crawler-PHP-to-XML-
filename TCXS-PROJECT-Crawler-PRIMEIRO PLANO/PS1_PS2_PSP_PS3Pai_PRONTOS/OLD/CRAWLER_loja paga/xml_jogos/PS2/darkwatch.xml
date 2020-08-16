@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_darkwatch_link">
+		<Attributes>
+			<Table key="ps2_darkwatch_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Dark Watch (ENG) [ ENG]</String></Pair>
+				<Pair key="info"><String>TCXS - SLES53024</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ucb3j1nu2hy31pt/EP0000-SLES53564_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		    <Item class="type:x-xmb/module-action" key="ps2_darkwatch_link" attr="ps2_darkwatch_link"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps1_thawk3_link">
+		<Attributes>
+			<Table key="ps1_thawk3_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Tony Hawk's Pro Skater 3</String></Pair>
+				<Pair key="info"><String>TCXS - SLES03645</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/j4roioipitu5rlm/UP9000-SLES03645_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps1_thawk3_link" attr="ps1_thawk3_link"/>
+		</Items>
+	</View>
+
+</XMBML>

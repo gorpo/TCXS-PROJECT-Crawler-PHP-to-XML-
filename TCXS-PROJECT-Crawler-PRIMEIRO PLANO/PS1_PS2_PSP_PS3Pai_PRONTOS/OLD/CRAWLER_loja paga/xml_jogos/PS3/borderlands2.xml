@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="borderlands2_items">
+		<Attributes>
+			<Table key="borderlands2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Borderlands 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/mmihdq0mxe1py6q/1DGAME-NPEB01684_00-NPEB016840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Borderlands 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/3emz42x6dq9z95j/2DGAME-NPEB01684_00-NPEB016840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="borderlands2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Borderlands 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5fbb26nye5lcsmi/2PATCH-BLES01684_00-BLES016840000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="borderlands2_item_0" attr="borderlands2_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="borderlands2_item_1" attr="borderlands2_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="borderlands2_item_2" attr="borderlands2_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="ps2_bombapatch2018_link">
+		<Attributes>
+			<Table key="ps2_bombapatch2018_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Bomba Patch 2018</String></Pair>
+				<Pair key="info"><String>TCXS - SLPM66374</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/hxl0o5pwtj7adsk/JP0000-SLPM66374_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ps2_bombapatch2018_link"
+        attr="ps2_bombapatch2018_link"/>
+		</Items>
+	</View>
+
+</XMBML>

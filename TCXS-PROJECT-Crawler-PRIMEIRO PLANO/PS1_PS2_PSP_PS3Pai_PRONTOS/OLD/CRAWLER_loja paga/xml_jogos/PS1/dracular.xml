@@ -1,0 +1,25 @@
+<XMBML version="1.0">
+	<View id="ps1_dracular_link">
+		<Attributes>
+			<Table key="ps1_dracular_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Dracula A Ressurreicao [CD1]</String></Pair>
+				<Pair key="info"><String>TCXS - SLES02762</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/orrcyphr5akx4uj/UP9000-SLES02762_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ps1_dracular1_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Dracula A Ressurreicao [CD2]</String></Pair>
+				<Pair key="info"><String>TCXS - SLES12762</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/d0ktrz40te7ebsm/UP9000-SLES12762_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps1_dracular_link" attr="ps1_dracular_link"/>
+		  <Item class="type:x-xmb/module-action" key="ps1_dracular1_link" attr="ps1_dracular1_link"/>
+		</Items>
+	</View>
+
+</XMBML>

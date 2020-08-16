@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="saints2_items">
+		<Attributes>
+			<Table key="saints2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Saints Row 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5m5t1j6r7oorqhm/1DGAME-NPEB00373_00-NPEB003730000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="saints2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME+LIC) - Saints Row 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7xosn0b7bhpnjdv/2DGAME-NPEB00373_00-NPEB003730000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="saints2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Saints Row 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5wfz10blrlqkyig/2PATCH-BLES00373_00-BLES003730000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="saints2_item_0" attr="saints2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="saints2_item_1" attr="saints2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="saints2_item_2" attr="saints2_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

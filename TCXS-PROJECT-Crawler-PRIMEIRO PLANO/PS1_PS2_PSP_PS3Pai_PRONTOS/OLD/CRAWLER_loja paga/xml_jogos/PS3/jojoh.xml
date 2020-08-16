@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="jojoh_items">
+		<Attributes>
+			<Table key="jojoh_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - JoJo's Bizarre Adventure Eyes of Heaven</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/x67avqqdfq4b2t4/1DGAME-NPJB10318_00-NPJB103180000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="jojoh_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - JoJo's Bizarre Adventure Eyes of Heaven</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7r0rneg6gaead25/2DGAME-NPJB10318_00-NPJB103180000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="jojoh_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - JoJo's Bizarre Adventure Eyes of Heaven</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/0y7rakbuqsuqjh3/2PATCH-BLJS10318_00-BLJS103180000000-A0105-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="jojoh_item_0" attr="jojoh_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="jojoh_item_1" attr="jojoh_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="jojoh_item_2" attr="jojoh_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

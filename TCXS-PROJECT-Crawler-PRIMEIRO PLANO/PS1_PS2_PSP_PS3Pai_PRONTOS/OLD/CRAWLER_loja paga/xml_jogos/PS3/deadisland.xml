@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="deadisland_items">
+		<Attributes>
+			<Table key="deadisland_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Dead Island</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/jecrnyjh95jtcaa/1DGAME-NPUB30790_00-NPUB307900000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="deadisland_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Dead Island</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/mad9z4wy8z67p65/2DGAME-NPUB30790_00-NPUB307900000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="deadisland_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Dead Island</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5eqbew5hsh2yt2u/2PATCH-BLUS30790_00-BLUS307900000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query
+        class="type:x-xmb/module-action"
+        key="deadisland_item_0"
+        attr="deadisland_item_0"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="deadisland_item_1"
+        attr="deadisland_item_1"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="deadisland_item_2"
+        attr="deadisland_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

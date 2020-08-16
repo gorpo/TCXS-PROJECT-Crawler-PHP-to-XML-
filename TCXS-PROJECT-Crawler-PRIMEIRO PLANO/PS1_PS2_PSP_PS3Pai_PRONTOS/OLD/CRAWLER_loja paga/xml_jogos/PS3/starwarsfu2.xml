@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="starwarsfu2_items">
+		<Attributes>
+			<Table key="starwarsfu2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Star Wars Force Unleashed 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ff30ye6p939cv3k/1DGAME-NPUB30534_00-NPUB305340000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="starwarsfu2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Star Wars Force Unleashed 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/llskyu8g04r84vr/2DGAME-NPUB30534_00-NPUB305340000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="starwarsfu2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Star Wars Force Unleashed 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/kpr5545obj2j3si/3DGAME-NPUB30534_00-NPUB305340000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="starwarsfu2_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Star Wars Force Unleashed 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/us84jn7ko8vzrtf/4DGAME-NPUB30534_00-NPUB305340000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="starwarsfu2_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (PATCH+LIC) - Star Wars Force Unleashed 2</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wk67qfjt7047k96/2PATCH-BLUS30534_00-BLUS305340000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="starwarsfu2_item_0" attr="starwarsfu2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="starwarsfu2_item_1" attr="starwarsfu2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="starwarsfu2_item_2" attr="starwarsfu2_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="starwarsfu2_item_3" attr="starwarsfu2_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="starwarsfu2_item_4" attr="starwarsfu2_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

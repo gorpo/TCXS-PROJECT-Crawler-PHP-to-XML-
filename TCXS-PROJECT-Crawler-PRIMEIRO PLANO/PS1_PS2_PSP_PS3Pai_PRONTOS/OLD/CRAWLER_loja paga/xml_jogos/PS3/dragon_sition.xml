@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="dragon_sition_items">
+		<Attributes>
+			<Table key="dragon_sition_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Dragon Age Inquisition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/b5c9y8l4bfj0hkg/1DGAME-NPUB31515_00-NPUB315150000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="dragon_sition_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Dragon Age Inquisition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/81ketqqlsydsbhm/2DGAME-NPUB31515_00-NPUB315150000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="dragon_sition_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Dragon Age Inquisition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/clu75pi7juo32lk/3DGAME-NPUB31515_00-NPUB315150000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="dragon_sition_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Dragon Age Inquisition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ccwm3ktvntg9ei1/4DGAME-NPUB31515_00-NPUB315150000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="dragon_sition_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (PATCH) - Dragon Age Inquisition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/0q2n4if732s6act/2PATCH-BLUS31515_00-BLUS315150000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="dragon_sition_item_0" attr="dragon_sition_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="dragon_sition_item_1" attr="dragon_sition_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="dragon_sition_item_2" attr="dragon_sition_item_2"/>
+  	   <Item class="type:x-xmb/module-action" key="dragon_sition_item_3" attr="dragon_sition_item_3"/>
+  	   <Item class="type:x-xmb/module-action" key="dragon_sition_item_4" attr="dragon_sition_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

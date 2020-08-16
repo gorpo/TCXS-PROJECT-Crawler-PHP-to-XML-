@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="pes10_items">
+		<Attributes>
+			<Table key="pes10_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Pro Evolutio Soccer 2010</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8zrfjhgg65dvtxq/1DGAME-NPUB30404_00-NPUB304040000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="pes10_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Pro Evolutio Soccer 2010</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/uplohq7zesz3xbl/2DGAME-NPUB30404_00-NPUB304040000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="pes10_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Pro Evolutin Soccer 2010</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/go5nr4tp2scz3s4/2PATCH-BLUS30404_00-BLUS304040000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="pes10_item_0" attr="pes10_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="pes10_item_1" attr="pes10_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="pes10_item_2" attr="pes10_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

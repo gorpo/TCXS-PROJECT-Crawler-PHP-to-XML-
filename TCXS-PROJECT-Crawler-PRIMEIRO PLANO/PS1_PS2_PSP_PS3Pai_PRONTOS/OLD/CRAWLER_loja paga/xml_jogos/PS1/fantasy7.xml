@@ -1,0 +1,34 @@
+<XMBML version="1.0">
+	<View id="ps1_fantasy7_link">
+		<Attributes>
+			<Table key="ps1_fantasy7_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Final Fantasy 7 [CD1]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS94163</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/4576qyy6g7q8539/UP9000-SCUS94163_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ps1_fantasy72_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Final Fantasy 7 [CD2]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS94163</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xtebn7hcnqk6j6e/UP9000-SCUS94163_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="ps1_fantasy73_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Final Fantasy 7 [CD3]</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS94163</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ky10k5k184829s4/UP9000-SCUS94163_00-0000000000000001.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps1_fantasy7_link" attr="ps1_fantasy7_link"/>
+		  <Item class="type:x-xmb/module-action" key="ps1_fantasy72_link" attr="ps1_fantasy72_link"/>
+		  <Item class="type:x-xmb/module-action" key="ps1_fantasy73_link" attr="ps1_fantasy73_link"/>
+		</Items>
+	</View>
+
+
+</XMBML>

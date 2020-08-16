@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="gowcoll1_items">
+		<Attributes>
+			<Table key="gowcoll1_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - God of War Collection Volume 1°</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/a7r1pi8sqprqezx/1DGAME-NPUA98229_00-NPUA982290000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="gowcoll1_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME+LIC) - God of War Collection Volume 1°</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/iitkpeo83kgwzsz/2DGAME-NPUA98229_00-NPUA982290000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="gowcoll1_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - God of War Collection Volume 1°</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gydh8nc7njl08ur/2PATCH-BCUS98229_00-BCUS982290000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Item class="type:x-xmb/module-action" key="gowcoll1_item_0" attr="gowcoll1_item_0"/>
+		<Item class="type:x-xmb/module-action" key="gowcoll1_item_1" attr="gowcoll1_item_1"/>
+		<Item class="type:x-xmb/module-action" key="gowcoll1_item_2" attr="gowcoll1_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

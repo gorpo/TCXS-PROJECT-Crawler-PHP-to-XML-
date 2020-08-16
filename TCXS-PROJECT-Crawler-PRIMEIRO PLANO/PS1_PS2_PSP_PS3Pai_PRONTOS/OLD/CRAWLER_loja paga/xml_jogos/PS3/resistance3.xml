@@ -1,0 +1,81 @@
+<XMBML version="1.0">
+	<View id="resistance3_items">
+		<Attributes>
+			<Table key="resistance3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7yz7ke9n8brrz7s/1DGAME-NPUA98176_00-NPUA981760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resistance3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/qxtwz0tpux8h4v1/2DGAME-NPUA98176_00-NPUA981760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resistance3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/59ci2yljmkuetp9/3DGAME-NPUA98176_00-NPUA981760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resistance3_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/s41f240jd430ild/4DGAME-NPUA98176_00-NPUA981760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resistance3_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (GAME) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/iy7d9jv6sexz0o3/5DGAME-NPUA98176_00-NPUA981760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resistance3_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 6 (GAME) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ku6gxgzx963mu35/6DGAME-NPUA98176_00-NPUA981760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resistance3_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 7 (GAME) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/sf4ay1ieuy4d7fm/7DGAME-NPUA98176_00-NPUA981760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resistance3_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 8 (GAME) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fdwrkxddosxkmsx/8DGAME-NPUA98176_00-NPUA981760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="resistance3_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 9 (PATCH) - Resistance 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/jd6dlrvsdxpq5kx/2PATCH-BCUS98176_00-BCUS981760000000-A0104-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_0" attr="resistance3_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_1" attr="resistance3_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_2" attr="resistance3_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_3" attr="resistance3_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_4" attr="resistance3_item_4"/>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_5" attr="resistance3_item_5"/>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_6" attr="resistance3_item_6"/>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_7" attr="resistance3_item_7"/>
+		  <Item class="type:x-xmb/module-action" key="resistance3_item_8" attr="resistance3_item_8"/>
+		</Items>
+	</View>
+
+</XMBML>

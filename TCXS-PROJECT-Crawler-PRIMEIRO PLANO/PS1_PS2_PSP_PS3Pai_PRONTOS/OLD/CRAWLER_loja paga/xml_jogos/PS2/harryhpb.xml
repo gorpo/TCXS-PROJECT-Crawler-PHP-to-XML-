@@ -1,0 +1,17 @@
+<XMBML version="1.0">
+	<View id="ps2_harryhpb_link">
+		<Attributes>
+			<Table key="ps2_harryhpb_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Harry Potter and the Half-Blood Prince</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS21808</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/q7tgty44vroz7mx/UP0000-SLUS21808_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="ps2_harryhpb_link" attr="ps2_harryhpb_link"/>
+		</Items>
+	</View>
+
+</XMBML>

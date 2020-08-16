@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="mkdc_items">
+		<Attributes>
+			<Table key="mkdc_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - MK vs DC</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/nze22diotmtbn35/1DGAME-NPUB30246_00-NPUB302460000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="mkdc_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - MK vs DC</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xxl93v1zp67ybv2/2DGAME-NPUB30246_00-NPUB302460000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="mkdc_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - MK vs DC</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8sn88nbfslsymrq/2PATCH-BLUS30246_00-BLUS302460000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="mkdc_item_0" attr="mkdc_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="mkdc_item_1" attr="mkdc_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="mkdc_item_2" attr="mkdc_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

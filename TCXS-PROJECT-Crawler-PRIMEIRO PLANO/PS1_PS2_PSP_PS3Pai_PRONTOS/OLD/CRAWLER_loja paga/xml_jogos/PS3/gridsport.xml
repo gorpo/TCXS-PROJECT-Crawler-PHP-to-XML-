@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="gridautosport_items">
+		<Attributes>
+			<Table key="gridautosport_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Grid Autosport</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ivwfiim3em3y53q/1DGAME-NPUB31452_00-NPUB314520000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="gridautosport_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME+LIC) - Grid Autosport</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8vcg5m80eb9nog8/2DGAME-NPUB31452_00-NPUB314520000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="gridautosport_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Grid Autosport</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/cqgv9h4sfisqsw8/2PATCH-BLUS31452_00-BLUS314520000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="gridautosport_item_0" attr="gridautosport_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="gridautosport_item_1" attr="gridautosport_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="gridautosport_item_2" attr="gridautosport_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

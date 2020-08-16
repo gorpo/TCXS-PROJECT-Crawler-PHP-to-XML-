@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="umarvel3_items">
+		<Attributes>
+			<Table key="umarvel3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Ultimate Marvel Vs Capcom 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fjp01unn6bxnjd0/1DGAME-NPUB30787_00-NPUB307870000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="umarvel3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (PATCH) - Ultimate Marvel Vs Capcom 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/wurrn2bllym32dz/000000-NPUB30787_00-2PATCH0000000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="umarvel3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (DLC) - Ultimate Marvel Vs Capcom 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7hniriwqfeae34x/UP0102-BLUS30787_00-UMVC3COSTUMEPFXD.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="umarvel3_item_0" attr="umarvel3_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="umarvel3_item_1" attr="umarvel3_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="umarvel3_item_2" attr="umarvel3_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

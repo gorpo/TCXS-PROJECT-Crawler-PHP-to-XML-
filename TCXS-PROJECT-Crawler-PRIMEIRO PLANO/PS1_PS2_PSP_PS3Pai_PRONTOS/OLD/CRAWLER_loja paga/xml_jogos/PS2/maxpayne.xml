@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+	<View id="ps2_maxpayne1_link">
+		<Attributes>
+			<Table key="ps2_maxpayne1_link">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Max Payne</String></Pair>
+				<Pair key="info"><String>TCXS - SLUS20230</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/b802857aligkant/UP0000-SLUS20230_00-PS2CLASSICS00000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query 
+        class="type:x-xmb/module-action"
+        key="ps2_maxpayne1_link"
+        attr="ps2_maxpayne1_link"/>
+		</Items>
+	</View>
+
+</XMBML>

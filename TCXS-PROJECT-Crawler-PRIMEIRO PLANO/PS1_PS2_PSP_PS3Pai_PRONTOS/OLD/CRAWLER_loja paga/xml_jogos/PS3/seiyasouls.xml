@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="cavaleirosalma_items">
+		<Attributes>
+			<Table key="cavaleirosalma_0_item">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Cavaleiros do Zodíaco - Alma dos Soldados</String></Pair>
+				<Pair key="info"><String>TCXS - -BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/67lbdf2ql1beyzl/1DGAME-NPUB31559_00-NPUB315590000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="cavaleirosalma_1_item">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Cavaleiros do Zodíaco - Alma dos Soldados</String></Pair>
+				<Pair key="info"><String>TCXS - -BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7f7dne7yghotrl7/2DGAME-NPUB31559_00-NPUB315590000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="cavaleirosalma_2_item">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH+LIC) - Cavaleiros do Zodíaco - Alma dos Soldados</String></Pair>
+				<Pair key="info"><String>TCXS - -BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/w8nt6rnioauc0co/2PATCH-BLUS31559_00-BLUS315590000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="cavaleirosalma_0_item" attr="cavaleirosalma_0_item"/>
+		  <Item class="type:x-xmb/module-action" key="cavaleirosalma_1_item" attr="cavaleirosalma_1_item"/>
+		  <Item class="type:x-xmb/module-action" key="cavaleirosalma_2_item" attr="cavaleirosalma_2_item"/>
+		</Items>
+	</View>
+
+</XMBML>

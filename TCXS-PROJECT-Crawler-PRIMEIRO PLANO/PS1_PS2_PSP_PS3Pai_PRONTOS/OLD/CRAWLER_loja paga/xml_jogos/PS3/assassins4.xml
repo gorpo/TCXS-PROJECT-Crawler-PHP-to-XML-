@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="assassins4_items">
+		<Attributes>
+			<Table key="assassins4_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Assassin's Creed IV Black Flag</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8ht0d8bpetz8x7x/1DGAME-NPUB31193_00-NPUB311930000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="assassins4_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Assassin's Creed IV Black Flag</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/52f5gn7bthm0w63/2DGAME-NPUB31193_00-NPUB311930000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="assassins4_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Assassin's Creed IV Black Flag</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/bexbbdxrpxmeqwh/3DGAME-NPUB31193_00-NPUB311930000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="assassins4_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Assassin's Creed IV Black Flag</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/eve8dz2is101w97/2PATCH-BLUS31193_00-BLUS311930000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="assassins4_item_0" attr="assassins4_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="assassins4_item_1" attr="assassins4_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="assassins4_item_2" attr="assassins4_item_2"/>
+  	   <Item class="type:x-xmb/module-action" key="assassins4_item_3" attr="assassins4_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="blur_items">
+		<Attributes>
+			<Table key="blur_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Blur</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ea0po9rx88compr/1DGAME-NPEB00759_00-NPEB007590000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="blur_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME+LIC) - Blur</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/guohzbz3ivruz8e/2DGAME-NPEB00759_00-NPEB007590000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="blur_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Blur</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/f5f1mwk617x4je7/2PATCH-BLES00759_00-BLES007590000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+  	   <Item class="type:x-xmb/module-action" key="blur_item_0" attr="blur_item_0"/>
+  	   <Item class="type:x-xmb/module-action" key="blur_item_1" attr="blur_item_1"/>
+  	   <Item class="type:x-xmb/module-action" key="blur_item_2" attr="blur_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

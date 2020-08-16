@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="revil5_items">
+		<Attributes>
+			<Table key="revil5_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Resident Evil 5 Gold</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8aq7i21ybl3w1uu/1DGAME-NPUB30491_00-NPUB304910000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="revil5_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Resident Evil 5 Gold</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/xng56r0q8awvcfw/2DGAME-NPUB30491_00-NPUB304910000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="revil5_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Resident Evil 5 Gold</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/e9ii08pc7k0hdwb/3DGAME-NPUB30491_00-NPUB304910000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="revil5_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Resident Evil 5 Gold</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/js6x6oj0rkwo6in/4DGAME-NPUB30491_00-NPUB304910000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="revil5_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (PATCH+LIC) - Resident Evil 5 Gold</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/fm9s0oq0ru9ih6b/2PATCH-BLUS30491_00-BLUS304910000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="revil5_item_0" attr="revil5_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="revil5_item_1" attr="revil5_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="revil5_item_2" attr="revil5_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="revil5_item_3" attr="revil5_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="revil5_item_4" attr="revil5_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

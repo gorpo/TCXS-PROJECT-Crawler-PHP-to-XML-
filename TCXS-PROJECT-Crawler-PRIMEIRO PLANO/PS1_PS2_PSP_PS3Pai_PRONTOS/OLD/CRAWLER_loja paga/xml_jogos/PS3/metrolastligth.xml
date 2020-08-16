@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="metroligth_items">
+		<Attributes>
+			<Table key="metroligth_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Metro Last Ligth</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/80kiamxbqjscgr3/1DGAME-NPUB31184_00-NPUB311840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="metroligth_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Metro Last Ligth</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/eatmhbdks61blyp/2DGAME-NPUB31184_00-NPUB311840000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="metroligth_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Metro Last Ligth</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ixxyzpt72t8se7l/2PATCH-BLUS31184_00-BLUS311840000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="metroligth_item_0" attr="metroligth_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="metroligth_item_1" attr="metroligth_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="metroligth_item_2" attr="metroligth_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

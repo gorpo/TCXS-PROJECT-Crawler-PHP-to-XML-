@@ -1,0 +1,25 @@
+<XMBML version="1.0">
+	<View id="twdge_items">
+		<Attributes>
+			<Table key="twdge_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - The Walking Dead Goty Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/x9hd3rm3mzme3cr/1DGAME-NPUB31144_00-NPUB311440000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="twdge_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (PATCH) - The Walking Dead Goty Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gmmrtur0yria1qs/2PATCH-BLUS31144_00-BLUS311440000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="twdge_item_0" attr="twdge_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="twdge_item_1" attr="twdge_item_1"/>
+		</Items>
+	</View>
+
+</XMBML>

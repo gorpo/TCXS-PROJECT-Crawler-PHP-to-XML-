@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="story3_items">
+		<Attributes>
+			<Table key="story3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Toy Story 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/q9agln49czv15n4/1DGAME-NPEB00876_00-NPEB008760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="story3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Toy Story 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/u7qnscevhvz7hii/2DGAME-NPEB00876_00-NPEB008760000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="story3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Toy Story 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/isvrt98n3cyqp46/2PATCH-BLES00876_00-BLES008760000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="story3_item_0" attr="story3_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="story3_item_1" attr="story3_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="story3_item_2" attr="story3_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

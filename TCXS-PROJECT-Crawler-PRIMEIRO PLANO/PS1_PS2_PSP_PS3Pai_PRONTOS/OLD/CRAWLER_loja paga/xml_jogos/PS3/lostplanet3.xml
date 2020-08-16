@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+	<View id="lostplanet3_items">
+		<Attributes>
+			<Table key="lostplanet3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Lost Planet 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/z4odb82iku7ema5/1DGAME-NPUB31020_00-NPUB310200000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lostplanet3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Lost Planet 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/dp98q5slr95ncpy/2DGAME-NPUB31020_00-NPUB310200000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lostplanet3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Lost Planet 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/cl1jc34axmewt10/3DGAME-NPUB31020_00-NPUB310200000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lostplanet3_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Lost Planet 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/bocgz6zymrc7eac/4DGAME-NPUB31020_00-NPUB310200000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="lostplanet3_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 5 (PATCH+LIC)) - Lost Planet 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/q3w2j8hcgsh6ak1/2PATCH-BLUS31020_00-BLUS310200000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="lostplanet3_item_0" attr="lostplanet3_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="lostplanet3_item_1" attr="lostplanet3_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="lostplanet3_item_2" attr="lostplanet3_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="lostplanet3_item_3" attr="lostplanet3_item_3"/>
+		  <Item class="type:x-xmb/module-action" key="lostplanet3_item_4" attr="lostplanet3_item_4"/>
+		</Items>
+	</View>
+
+</XMBML>

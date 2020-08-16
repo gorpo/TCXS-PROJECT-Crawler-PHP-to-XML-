@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="mafia2_items">
+		<Attributes>
+			<Table key="mafia2_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Mafia 2 Director's Cut</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/h0qadma39mlkett/1DGAME-NPUB30712_00-NPUB307120000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="mafia2_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Mafia 2 Director's Cut</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/rztht1xv22on5fo/2DGAME-NPUB30712_00-NPUB307120000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="mafia2_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Mafia 2 Director's Cut</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/e6m5ry51jx5g08z/3DGAME-NPUB30712_00-NPUB307120000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="mafia2_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Mafia 2 Director's Cut</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/8ysu3n9mjni9s7k/2PATCH-BLUS30712_00-BLUS307120000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="mafia2_item_0" attr="mafia2_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="mafia2_item_1" attr="mafia2_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="mafia2_item_2" attr="mafia2_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="mafia2_item_3" attr="mafia2_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

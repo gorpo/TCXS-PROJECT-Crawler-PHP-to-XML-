@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="mk9lg_items">
+		<Attributes>
+			<Table key="mk9lg_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Mortal Kombat 9 Komplete (Legendado)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/1g0dfgz9271so1k/1DGAME-NPUB30902_00-NPUB309020000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="mk9lg_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Mortal Kombat 9 Komplete (Legendado)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/5nnyar7txo6n5y7/2DGAME-NPUB30902_00-NPUB309020000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="mk9lg_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Mortal Kombat 9 Komplete (Legendado)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/bape55pnnku8gb4/3DGAME-NPUB30902_00-NPUB309020000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="mk9lg_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (GAME) - Mortal Kombat 9 Komplete (Legendado)</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ch9j6o6e19bj4cj/2PATCH-BLUS30902_00-BLUS309020000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+	  	   <Item class="type:x-xmb/module-action" key="mk9lg_item_0" attr="mk9lg_item_0"/>
+	  	   <Item class="type:x-xmb/module-action" key="mk9lg_item_1" attr="mk9lg_item_1"/>
+	  	   <Item class="type:x-xmb/module-action" key="mk9lg_item_2" attr="mk9lg_item_2"/>
+	  	   <Item class="type:x-xmb/module-action" key="mk9lg_item_3" attr="mk9lg_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

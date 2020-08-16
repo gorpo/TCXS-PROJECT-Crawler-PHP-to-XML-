@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="darkpre_items">
+		<Attributes>
+			<Table key="darkpre_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Dark Souls Prepare To Die Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/7s9gwxe1o3g08e0/1DGAME-NPEB01765_00-NPEB017650000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="darkpre_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Dark Souls Prepare To Die Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/gdsib8msz25wdzb/2DGAME-NPEB01765_00-NPEB017650000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="darkpre_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Dark Souls Prepare To Die Edition</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/b1qa2lv47v9hz4s/2PATCH-BLES01765_00-BLES017650000000-A0109-V0100.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		<Query
+        class="type:x-xmb/module-action"
+        key="darkpre_item_0"
+        attr="darkpre_item_0"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="darkpre_item_1"
+        attr="darkpre_item_1"/>
+		<Query
+        class="type:x-xmb/module-action"
+        key="darkpre_item_2"
+        attr="darkpre_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>

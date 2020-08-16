@@ -1,0 +1,41 @@
+<XMBML version="1.0">
+	<View id="crysis3_items">
+		<Attributes>
+			<Table key="crysis3_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Crysis 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/867mg8st8cdg4x1/1DGAME-NPEB01649_00-NPEB016490000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="crysis3_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME) - Crysis 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/f53hhfcltwpswkp/2DGAME-NPEB01649_00-NPEB016490000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="crysis3_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (GAME) - Crysis 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6hxfp38wskkyk37/3DGAME-NPEB01649_00-NPEB016490000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="crysis3_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 4 (PATCH) - Crysis 3</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/6swkv9dc79em2n9/2PATCH-BLES01649_00-BLES016490000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="crysis3_item_0" attr="crysis3_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="crysis3_item_1" attr="crysis3_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="crysis3_item_2" attr="crysis3_item_2"/>
+		  <Item class="type:x-xmb/module-action" key="crysis3_item_3" attr="crysis3_item_3"/>
+		</Items>
+	</View>
+
+</XMBML>

@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+	<View id="asuras_items">
+		<Attributes>
+			<Table key="asuras_item_0">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 1 (GAME) - Asura's Wrath</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/ad1v5wbiiye1kvk/1DGAME-NPUB30721_00-NPUB307210000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="asuras_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 2 (GAME+LIC) - Asura's Wrath</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/af76sxozk7jr1xt/2DGAME-NPUB30721_00-NPUB307210000000.pkg?dl=1</String></Pair>
+      </Table>
+			<Table key="asuras_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/TCXSPROJECT/USRDIR/IMAGES/DLCS/download.png</String></Pair>
+				<Pair key="title"><String>TCXS - Parte 3 (PATCH) - Asura's Wrath</String></Pair>
+				<Pair key="info"><String>TCXS - BAIXE TODAS AS PARTES ANTES DE INSTALAR!!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.dropbox.com/s/tbjfsy138ov5j71/2PATCH-BLUS30721_00-BLUS307210000000.pkg?dl=1</String></Pair>
+      </Table>
+		</Attributes>
+		<Items>
+		  <Item class="type:x-xmb/module-action" key="asuras_item_0" attr="asuras_item_0"/>
+		  <Item class="type:x-xmb/module-action" key="asuras_item_1" attr="asuras_item_1"/>
+		  <Item class="type:x-xmb/module-action" key="asuras_item_2" attr="asuras_item_2"/>
+		</Items>
+	</View>
+
+</XMBML>
