@@ -68,6 +68,8 @@ with open(f"{imagens[0][0:-4]}.xml",'a') as arquivo:
                 <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/{imagem}</String></Pair>
                 <Pair key="title"><String>Jogo: {titulo}</String></Pair>
                 <Pair key="info"><String>Idioma do Jogo: INGLES | DUBLADO/LEGENDADO)</String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>{link}</String></Pair>
             </Table>"""
         arquivo.write(texto1)
 
@@ -78,38 +80,15 @@ with open(f"{imagens[0][0:-4]}.xml",'a') as arquivo:
 
     for i in range(len(links)):
         texto3 = f"""
-                <Query class="type:x-xmb/folder-pixmap" key="tcxs_{i}" attr="tcxs_{i}" src="#tcxs_{i}_link" />"""
+                <Item class="type:x-xmb/module-action" key="tcxs_{i}" attr="tcxs_{i}" />"""
         arquivo.write(texto3)
 
     texto4 = """
 		</Items>
-	</View>"""
+	</View>
+</XMBML>"""
     arquivo.write(texto4)
-    for i in  range(len(links)):
-        titulo = titulos[0]
-        imagem = imagens[0]
-        link = links[i]
-        contentId = ids[i]
-        print(imagem, titulo, link, contentId)
 
-
-        texto5 = f"""
-        <View id="tcxs_{i}_link">
-            <Attributes>
-                <Table key="tcxs_download{i}">
-                    <Pair key="info"><String>net_package_install</String></Pair>
-                    <Pair key="pkg_src"><String>{link}</String></Pair>
-                    <Pair key="pkg_src_qa"><String>{link}</String></Pair>
-                    <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
-                    <Pair key="content_id"><String>{contentId}</String></Pair>
-                    <Pair key="prod_pict_path"><String>/dev_hdd0/game/HENBSTORE/USRDIR/IMAGES/ps3/{imagem}</String></Pair>
-                </Table>
-            </Attributes>
-            <Items><Item class="type:x-xmb/xmlnpsignup" key="tcxs_download{i}" attr="tcxs_download{i}" /></Items>
-        </View>"""
-        arquivo.write(texto5)
-
-    arquivo.write('</XMBML>')
 
 arquivo.close()
 
